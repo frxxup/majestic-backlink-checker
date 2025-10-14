@@ -27,7 +27,7 @@ Majestic Backlink Checker is a comprehensive SEO intelligence toolkit designed t
 > The Majestic Backlink Checker provides deep insights into the backlink structure of any domain. It uses Trust Flow and Citation Flow to measure the quality and quantity of backlinks, making it an essential tool for SEO experts, link builders, and digital marketers.
 
 <p align="center">
-  <img src="majestic backlink checker.png" alt="majestic backlink checker" width="100%">
+  <img src="majestic backlink checker 2.png" alt="majestic backlink checker 2" width="100%">
 </p>
 
 ### Key Benefits
